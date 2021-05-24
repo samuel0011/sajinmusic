@@ -1,0 +1,1 @@
+alert("usted a sido hackeado !! esta pajina esta extrayendo informacion vital..... ahhh te la creiste!!! nct... este es un mensaje cualquiera")
